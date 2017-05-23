@@ -11,6 +11,10 @@
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
+auto.nuget.repo.sln
+
+#USer-specific folders
+auto.nuget.repo/
 
 # Build results
 [Dd]ebug/
