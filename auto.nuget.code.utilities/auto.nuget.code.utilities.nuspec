@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>auto.nuget.code.utilities</id>
+    <version>1.0</version>
+    <title>auto.nuget.code.utiities</title>
+    <authors>Jim Hoy (jim.hoy@gmail.com)</authors>
+    <owners>Jim Hoy</owners>
+    <licenseUrl>http://auto-nuget.azurewebsites.net/License.aspx</licenseUrl>
+    <projectUrl>https://github.com/jobo5432/auto.nuget.code</projectUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>A simple class library for demonstrating the ability to create and auto-deploy NuGet packages.</description>
+    <releaseNotes>A simple Math utility library for add/sub/mult/div on integer types.</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags>auto.nuget, math</tags>
+  </metadata>
+  <files>
+    <file src="bin\Deploy\auto.nuget.code.utilities.dll" target="lib\auto.nuget.code.utilities.dll" />
+  </files>
+</package>

@@ -35,30 +35,30 @@ namespace auto.nuget.code.utilities
             return x / y;
         }
 
-        //version 2.0 baisc double math operations.
-        public static double Add(double x, double y)
-        {
-            return x + y;
-        }
+        ////version 2.0 baisc double math operations.
+        //public static double Add(double x, double y)
+        //{
+        //    return x + y;
+        //}
 
-        public static double Subtract(double x, double y)
-        {
-            return x - y;
-        }
+        //public static double Subtract(double x, double y)
+        //{
+        //    return x - y;
+        //}
 
-        public static double multiply(double x, double y)
-        {
-            return x * y;
-        }
+        //public static double multiply(double x, double y)
+        //{
+        //    return x * y;
+        //}
 
-        public static double Divide(double x, double y)
-        {
-            if (y == 0)
-            {
-                return 0;
-            }
+        //public static double Divide(double x, double y)
+        //{
+        //    if (y == 0)
+        //    {
+        //        return 0;
+        //    }
 
-            return x / y;
-        }
+        //    return x / y;
+        //}
     }
 }
